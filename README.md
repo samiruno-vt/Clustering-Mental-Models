@@ -10,7 +10,6 @@ Code in this repository:
 3) ClusteringMentalModels_Regression.R
 
 <br />
-<br />
 MentalModelsToMatrices.ipynb<br />
    &emsp;Contains the code that takes SD Bot output as input and creates standardized matrices for all participants.<br />
    &emsp;One must enter their own OpenAI API key for the code to work.<br />
