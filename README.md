@@ -21,5 +21,3 @@ Code in this repository:
 3) ClusteringMentalModels_Regression.R
    Builds regression models to look for evidence of whether the approach in 2) is valid.
 
-
-Thank you.
